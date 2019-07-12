@@ -1,4 +1,4 @@
 for NAME in "TONY" "IS" "RAD"
 do
-  echo$NAME
+  echo $NAME
 done  
