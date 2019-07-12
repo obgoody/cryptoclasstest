@@ -1,2 +1,2 @@
 language: bash
-script: echo $NAME
+script: echo success $NAME
