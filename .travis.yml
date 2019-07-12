@@ -1,3 +1,2 @@
 language: bash
-script: echo success 
-$NAME
+script: chmod +x cryptoclasstest.sh && ./cryptoclasstest.sh
