@@ -1,2 +1,2 @@
 language: bash
-script: chmod +x cryptoclasstest.sh && ./cryptoclasstest.sh
+script: chmod +x scriptish.sh && ./scriptish.sh
